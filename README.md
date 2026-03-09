@@ -1,9 +1,12 @@
 # GRC Portfolio — Kelwyn Williams
 
-**Background:** 7+ years in accounting | Transitioning to GRC  
+**Background:** 7+ years in accounting | Transitioning to GRC 
+
 **Target Role:** GRC Analyst  
+
 **Certifications:** CompTIA Security+ | GFACT | GSEC | GCIH | ISC2 CC
-**Frameworks:** SOX · COSO · NIST CSF 2.0 · NIST SP 800-161 · ISO 27036 · ISO 31000
+
+**Frameworks:** SOX · COSO · NIST CSF 2.0 · NIST SP 800-161 · ISO 27036 · CISA
 
 ---
 
