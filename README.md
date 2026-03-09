@@ -51,5 +51,7 @@ business reality. That is exactly what years in accounting builds.
 ## Contact
 
 **LinkedIn:** https://linkedin.com/in/kelwyn-w 
-**Email:** Kelwynwilliams@hotmail.co.uk 
+
+**Email:** Kelwynwilliams@hotmail.co.uk
+
 **Location:** Silver Spring, MD
